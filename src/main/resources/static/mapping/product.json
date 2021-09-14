@@ -1,0 +1,10 @@
+{
+  "properties":{
+    "productId":{
+      "type":"text"
+    },
+    "productName":{
+      "type":"text"
+    }
+  }
+}
